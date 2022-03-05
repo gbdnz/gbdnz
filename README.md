@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gbdnz
+- 👋 Hi, I’m @gbdnz, estudante de Análise e Desenvolvimento de Sistemas
 - 👀 I’m interested in  aprender programação
 - 🌱 I’m currently learning  lógica da programação
 - 💞️ I’m looking to collaborate on  em projetos
