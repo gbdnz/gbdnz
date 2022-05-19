@@ -3,7 +3,7 @@
 - 👀 I’m interested in  aprender programação
 - 🌱 I’m currently learning  lógica da programação
 - 💞️ I’m looking to collaborate on  em projetos
-- 📫 How to reach me : fale por aqui
+- 📫 How to reach me: (https://www.linkedin.com/in/gabrieladnz/)
 
 <div>
 <a href="https://github.com/gabrieladnz">
