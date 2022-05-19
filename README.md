@@ -16,4 +16,4 @@ gbdnz/gbdnz is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
   
-  ![Snake animation](https://github.com/gabrieladnz/gabrieladnz/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/gabrieladnz/gabrieladnz/blob/output/github-contribution-grid-snake.svg)
