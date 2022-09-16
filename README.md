@@ -1,9 +1,8 @@
-- 👋 Olá, me chamo Gabriela, sou estudante de Análise e Desenvolvimento de Sistemas!
-- ✨ Bem-vindo(a) ao meu perfil
-- 👀 I’m interested in  aprender programação
-- 🌱 I’m currently learning  lógica da programação
-- 💞️ I’m looking to collaborate on  em projetos
-- 📫 How to reach me: (https://www.linkedin.com/in/gabrieladnz/)
+- 👋 Bem-vindo(a) ao meu perfil
+- ✨ Me chamo Gabriela, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas!
+- 👀 Tenho interesse na área de programação
+- 💞️ Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens
+- 📫 Esse é o meu perfil no Linkedin: (https://www.linkedin.com/in/gabrieladnz/)
 
   
 <!---
