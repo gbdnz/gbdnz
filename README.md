@@ -6,6 +6,7 @@
 - 🧩 Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens.
 - 📈 A partir dos meus repositórios você pode acompanhar minha evolução.
 - 🖇️ Saiba mais sobre mim -> Linkedin: (https://www.linkedin.com/in/gabrieladnz/)
+- ✏️Acesse meu portfólio pessoal (em andamento): https://gabrieladnz.github.io/
 
   <br />
   
