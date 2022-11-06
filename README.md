@@ -1,4 +1,5 @@
-- :robot: <h3> Me chamo Gabriela, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
+- :robot: <h4><b>Olá, me chamo Gabriela! Bem-vindo(a)</b>
+- :robot: Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 2º período!
 - :robot: Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens
 - :robot: Linkedin: (https://www.linkedin.com/in/gabrieladnz/)
 
