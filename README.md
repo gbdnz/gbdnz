@@ -1,6 +1,6 @@
-- ✨ Me chamo Gabriela, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
-- ✨ Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens
-- ✨ Linkedin: (https://www.linkedin.com/in/gabrieladnz/)
+- :robot: <h3> Me chamo Gabriela, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
+- :robot: Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens
+- :robot: Linkedin: (https://www.linkedin.com/in/gabrieladnz/)
 
   
 <!---
