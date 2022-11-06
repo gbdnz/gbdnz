@@ -1,8 +1,13 @@
-- :robot: <h4><b>Olá, me chamo Gabriela! Bem-vindo(a)</b>
-- :robot: Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 2º período!
-- :robot: Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens
-- :robot: Linkedin: (https://www.linkedin.com/in/gabrieladnz/)
+<h4><b>Olá, me chamo Gabriela! Bem-vindo(a)</b> :wave:
+<br/>
+  <br />
+  
+- 📖 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 2º período!
+- 🧩 Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens.
+- 📈 A partir dos meus repositórios você pode acompanhar minha evolução.
+- 🖇️ Saiba mais sobre mim -> Linkedin: (https://www.linkedin.com/in/gabrieladnz/)
 
+  <br />
   
 <!---
 gbdnz/gbdnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
