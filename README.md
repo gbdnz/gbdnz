@@ -21,6 +21,6 @@ You can click the Preview link to take a look at your changes.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieladnz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 </div>
-
-![snake gif]
-(https://github.com/gabrieladnz/gabrieladnz/blob/output/github-contribution-grid-snake.gif)
+ 
+ 
+![snake gif](https://github.com/gabrieladnz/gabrieladnz/blob/output/github-contribution-grid-snake.svg)
