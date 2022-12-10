@@ -1,4 +1,4 @@
-<h1 align="center"><b>Olá, me chamo Gabriela! :wave:</b></h1> 
+<h1 align="center"><b>Olá, :wave:</b></h1> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo(a) ao meu GitHub!" alt="Typing SVG"/></a>
 <br/>
  
