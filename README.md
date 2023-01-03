@@ -2,11 +2,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo(a) ao meu GitHub!" alt="Typing SVG"/></a>
 <br/>
  
-- 📖 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 2º período!
+- 📖 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º período!
 - 🧩 Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens.
 - 📈 A partir dos meus repositórios você pode acompanhar minha evolução.
 - 🖇️ Saiba mais sobre mim -> Linkedin: (https://www.linkedin.com/in/gabrieladnz/)
-- ✏️Acesse meu portfólio pessoal (em andamento): https://gabrieladnz.github.io/
+- ✏️Acesse meu portfólio pessoal (em andamento): (https://gabrieladnz.github.io/)
 
   <br />
   
