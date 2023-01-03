@@ -7,6 +7,7 @@
 - 📈 A partir dos meus repositórios você pode acompanhar minha evolução.
 - 🖇️ Saiba mais sobre mim -> Linkedin: (https://www.linkedin.com/in/gabrieladnz/)
 - ✏️Acesse meu portfólio pessoal (em andamento): (https://gabrieladnz.github.io/)
+- :envelope:	Deseja entrar em contato? Me mande um e-mail! (gabrieladnz.dev@gmail.com)
 
   <br />
   
