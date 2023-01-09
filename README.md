@@ -24,3 +24,5 @@ You can click the Preview link to take a look at your changes.
 </div>
  
 ![snake gif](https://github.com/gabrieladnz/gabrieladnz/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
