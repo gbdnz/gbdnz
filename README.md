@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
 <div> <a href="https://github.com/gabrieladnz">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrieladnz&layout=compact&langs_count=7&theme=merko"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrieladnz&show_icons=true&theme=merko"/>
+<img height="178em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrieladnz&layout=compact&langs_count=7&theme=merko"/>
+<img height="178em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrieladnz&show_icons=true&theme=merko"/>
 </div>
 </div>
  
