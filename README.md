@@ -12,7 +12,7 @@
 <br>
 
 - Linkedin: (https://www.linkedin.com/in/gabrieladnz/)
-- ✏️Acesse meu portfólio pessoal: (https://gabrieladnz.github.io/)
+- ✏️Acesse meu portfólio: (https://gabrieladnz.github.io/)
 - :envelope:	Deseja entrar em contato? Me mande um e-mail! (gabrieladnz.dev@gmail.com)
 <hr>
   
