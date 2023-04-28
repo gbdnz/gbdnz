@@ -1,7 +1,12 @@
 <h1 align="center"><b>Olá, :wave:</b></h1> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo(a) ao meu GitHub!" alt="Typing SVG"/></a>
-<br/>
-<hr>
+<center>
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG"/>
+    </a>
+  </div>
+</center>
+
 
 - 🧩 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º período! Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens. A partir dos meus repositórios você pode acompanhar minha evolução!
 <br>
@@ -23,4 +28,6 @@ You can click the Preview link to take a look at your changes.
 </div>
  <hr>
  
-![snake gif](https://github.com/gabrieladnz/gabrieladnz/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/gabrieladnz/gabrieladnz/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+</div>
