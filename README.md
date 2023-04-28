@@ -1,7 +1,8 @@
 <h1 align="center"><b>Olá, :wave:</b></h1> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo(a) ao meu GitHub!" alt="Typing SVG"/></a>
 <br/>
- <hr>
+<hr>
+
 - 🧩 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º período! Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens. A partir dos meus repositórios você pode acompanhar minha evolução!
 <br>
 
