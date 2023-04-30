@@ -11,6 +11,7 @@
 - 🧩 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º período! Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens. A partir dos meus repositórios você pode acompanhar minha evolução!
 <br>
 
+- Dev.to: (https://dev.to/gabrieladnz)
 - Linkedin: (https://www.linkedin.com/in/gabrieladnz/)
 - ✏️Acesse meu portfólio: (https://gabrieladnz.github.io/)
 - :envelope:	Deseja entrar em contato? Me mande um e-mail! (gabrieladnz.dev@gmail.com)
