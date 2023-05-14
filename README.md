@@ -8,7 +8,7 @@
 
 <hr>
 
-- 🧩 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º período! Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens. A partir dos meus repositórios você pode acompanhar minha evolução!
+- 🧩 Estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º período! Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens. A partir dos meus repositórios você pode acompanhar minha evolução!
 <br>
 
 - Dev.to: (https://dev.to/gabrieladnz)
