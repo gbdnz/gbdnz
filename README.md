@@ -8,7 +8,7 @@
 
 <hr>
 
-Estudante do terceiro período de Análise e Desenvolvimento de Sistemas! Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens. A partir dos meus repositórios você pode acompanhar minha evolução! Acesse minhas redes sociais:
+Estudante do terceiro período de Análise e Desenvolvimento de Sistemas! Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens. A partir dos meus repositórios você pode acompanhar minha evolução! Acesse minhas redes:
 <br>
 
 - Dev.to: (https://dev.to/gabrieladnz)
