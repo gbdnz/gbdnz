@@ -11,10 +11,10 @@
 Estudante do terceiro período de Análise e Desenvolvimento de Sistemas! Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens. A partir dos meus repositórios você pode acompanhar minha evolução! Acesse minhas redes:
 <br>
 
-- Dev.to: (https://dev.to/gabrieladnz)
-- Linkedin: (https://www.linkedin.com/in/gabrieladnz/)
-- ✏️Acesse meu portfólio: (https://gabrieladnz.github.io/)
-- :envelope:	Deseja entrar em contato? Me mande um e-mail! (gabrieladnz.dev@gmail.com)
+- Dev.to: <a target="_blank" href="https://dev.to/gabrieladnz">dev.to/gabrieladnz</a>
+- Linkedin: <a target="_blank" href="https://www.linkedin.com/in/gabrieladnz/">linkedin/gabrieladnz</a>
+- ✏️Acesse meu portfólio: <a target="_blank" href="https://gabrieladnz.github.io/">Portfólio</a>
+- :envelope:	Deseja entrar em contato? Me mande um e-mail! gabrieladnz.dev@gmail.com
 <hr>
   
 <!---
