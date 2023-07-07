@@ -7,8 +7,9 @@
 </center>
 
 <hr>
-
-Estudante do quarto período de Análise e Desenvolvimento de Sistemas e do primeiro período de Engenharia de Software! Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens. A partir dos meus repositórios você pode acompanhar minha evolução! Acesse minhas redes:
+<div>
+Estudante do 4º período de Análise e Desenvolvimento de Sistemas e do 1º período de Engenharia de Software! Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens. A partir dos meus repositórios você pode acompanhar minha evolução! Acesse minhas redes:
+</div>
 <br>
 
 - Dev.to: <a target="_blank" href="https://dev.to/gabrieladnz">dev.to/gabrieladnz</a>
