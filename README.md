@@ -19,14 +19,14 @@
 - Linkedin: <a target="_blank" href="https://www.linkedin.com/in/gabrieladnz/">linkedin/gabrieladnz</a>
 - ✏️Acesse meu portfólio: <a target="_blank" href="https://gabrieladnz.github.io/">Portfólio</a>
 - :envelope:	Deseja entrar em contato? Me mande um e-mail! <a href="mailto:seuemail@example.com">gabrieladnz.dev@gmail.com</a>
-
+<!---
 <hr>
 
   
-<!---
+
 gbdnz/gbdnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 <div align="center">
 <div> <a href="https://github.com/gabrieladnz">
 <img height="178em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrieladnz&layout=compact&langs_count=10&theme=midnight-purple"/>
@@ -38,3 +38,4 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://github.com/gabrieladnz/gabrieladnz/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
 </div>
+--->
