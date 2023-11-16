@@ -16,6 +16,7 @@
 <br>
 
 - Dev.to: <a target="_blank" href="https://dev.to/gabrieladnz">dev.to/gabrieladnz</a>
+- GitLab: <a target="_blank" href="https://gitlab.com/gabrieladnz">gitlab/gabrieladnz</a>
 - Linkedin: <a target="_blank" href="https://www.linkedin.com/in/gabrieladnz/">linkedin/gabrieladnz</a>
 - ✏️ Acesse meu portfólio: <a target="_blank" href="https://gabrieladnz.github.io/">Portfólio</a>
 - :envelope:	Deseja entrar em contato? Me mande um e-mail! <a href="mailto:seuemail@example.com">gabrieladnz.dev@gmail.com</a>
