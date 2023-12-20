@@ -11,15 +11,15 @@
 -->
 
 <div>
-👩🏻‍💻 Estudante do 4º período de Análise e Desenvolvimento de Sistemas e do 1º período de Engenharia de Software. Busco aprimorar minhas habilidades desenvolvendo projetos e conhecendo linguagens. A partir dos meus repositórios você pode acompanhar minha evolução! Acesse minhas redes:
+👩🏻‍💻 Student of the 5th period of Systems Analysis and Development and the 2nd period of Software Engineering. I seek to improve my skills by developing projects and learning languages. From my repositories you can follow my evolution! Access my networks:
 </div>
 <br>
 
 - Dev.to: <a target="_blank" href="https://dev.to/gabrieladnz">dev.to/gabrieladnz</a>
 - GitLab: <a target="_blank" href="https://gitlab.com/gabrieladnz">gitlab/gabrieladnz</a>
 - Linkedin: <a target="_blank" href="https://www.linkedin.com/in/gabrieladnz/">linkedin/gabrieladnz</a>
-- ✏️ Acesse meu portfólio: <a target="_blank" href="https://gabrieladnz.github.io/">Portfólio</a>
-- :envelope:	Deseja entrar em contato? Me mande um e-mail! <a href="mailto:seuemail@example.com">gabrieladnz.dev@gmail.com</a>
+- ✏️ Access my portfolio: <a target="_blank" href="https://gabrieladnz.github.io/">Portfólio</a>
+- :envelope:	Do you want to get in touch? Send me an email! <a href="mailto:seuemail@example.com">gabrieladnz.dev@gmail.com</a>
 <!---
 <hr>
 
