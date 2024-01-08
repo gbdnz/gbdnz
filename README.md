@@ -48,4 +48,10 @@ You can click the Preview link to take a look at your changes.
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://profile-counter.glitch.me/gabrieladnz/count.svg" />
 </div>
+
+
+## GRÁFICO DE CONTRIBUIÇÃO
+<div>
+   <img alt="DioAugust Grafico de atividade" src="https://github-readme-activity-graph-red.vercel.app/graph?username=gabrieladnz&theme=merko&hide_border=true" />
+</div>
 --->
