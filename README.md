@@ -40,3 +40,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/gabrieladnz/gabrieladnz/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
 </div>
 --->
+
+
+<!--
+## CONTADOR DE VISITAS
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://profile-counter.glitch.me/gabrieladnz/count.svg" />
+</div>
+--->
