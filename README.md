@@ -23,8 +23,6 @@
 <!---
 <hr>
 
-  
-
 gbdnz/gbdnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
@@ -39,19 +37,15 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://github.com/gabrieladnz/gabrieladnz/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
 </div>
---->
 
-
-<!--
 ## CONTADOR DE VISITAS
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://profile-counter.glitch.me/gabrieladnz/count.svg" />
 </div>
-
-
-## GRÁFICO DE CONTRIBUIÇÃO
+--->
+<br>
 <div>
-   <img alt="DioAugust Grafico de atividade" src="https://github-readme-activity-graph-red.vercel.app/graph?username=gabrieladnz&theme=merko&hide_border=true" />
+   <img alt="Gráfico de contribuição" src="https://github-readme-activity-graph-red.vercel.app/graph?username=gabrieladnz&theme=merko&hide_border=true" />
 </div>
 --->
