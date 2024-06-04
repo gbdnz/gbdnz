@@ -12,7 +12,7 @@ https://replit.com/@gabrieladiniz
 -->
 
 <div>
-👩🏻‍💻 Student of the 5th period of Systems Analysis and Development and the 2nd period of Software Engineering. I seek to improve my skills by developing projects and learning languages. From my repositories you can follow my evolution! Access my networks:
+👩🏻‍💻 Professional graduated in Systems Analysis and Development and 2nd period Software Engineering student. I seek to improve my skills by developing projects and learning languages. From my repositories you can follow my evolution! Access my networks:
 </div>
 <br>
 
