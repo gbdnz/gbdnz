@@ -45,10 +45,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/gabrieladnz/count.svg" />
 </div>
 --->
-<br>
-<div>
+
+<!-- <div>
    <img alt="Gráfico de contribuição" src="https://github-readme-activity-graph-red.vercel.app/graph?username=gabrieladnz&theme=merko&hide_border=true" />
-</div>
+</div> -->
 
 <!--
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieladnz&theme=merko&hide_border=true" width=100% />
