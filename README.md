@@ -19,7 +19,6 @@ https://replit.com/@gabrieladiniz
 - Dev.to: <a target="_blank" href="https://dev.to/gabrieladnz">dev.to/gabrieladnz</a>
 - GitLab: <a target="_blank" href="https://gitlab.com/gabrieladnz">gitlab/gabrieladnz</a>
 - Linkedin: <a target="_blank" href="https://www.linkedin.com/in/gabrieladnz/">linkedin/gabrieladnz</a>
-- ✏️ Access my portfolio: <a target="_blank" href="https://gabrieladnz.github.io/">Portfólio</a>
 - :envelope:	Do you want to get in touch? Send me an email! <a href="mailto:seuemail@example.com">gabrieladnz.dev@gmail.com</a>
 <!---
 <hr>
